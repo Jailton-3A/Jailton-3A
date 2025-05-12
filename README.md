@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jailton-3a&show_icons=true&theme=github_dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jailton-3a&layout=compact&theme=github_dark" />
 </p>
 
 ---
