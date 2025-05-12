@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Jailton-3A/Jailton-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -55,8 +53,8 @@ Here are some ideas to get you started:
 
 ## 📫 Contato
 
-- 📧 Email: [seuemail@email.com]
-- 💼 LinkedIn: [https://linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- 📧 Email: jailtonmirandasim@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/jailton-miranda-779591203/
 - 🌐 Portfólio: [https://seusite.com](https://seusite.com)
 
 ---
