@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Olá 👋, eu sou Jailton</h1>
-<p align="center">💻 Desenvolvedor | 🎓 Estudante | 🔍 Entusiasta de Tecnologia</p>
+<p align="center">Desenvolvedor | Estudante | Entusiasta de Tecnologia</p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-- 🔭 Atualmente sou acadêmico em Sistemas de Informação
-- 🌱 Aprendendo: **Python, Java, JavaScript, Git**
-- 🎯 Objetivo: **Me tornar um desenvolvedor [frontend, backend, full stack, etc.]**
-- ✨ Curiosidades: **Sou apaixonado por resolver problemas com código e construir soluções simples e funcionais.**
+- Atualmente sou acadêmico em Sistemas de Informação
+- Aprendendo: **Python, Java, JavaScript, Git**
+- Objetivo: **Me tornar um desenvolvedor [frontend, backend, full stack, etc.]**
+- Curiosidades: **Sou apaixonado por resolver problemas com código e construir soluções simples e funcionais.**
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -35,14 +35,14 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 
 - 🔗 [Sistema de Biblioteca em Python](https://github.com/seu-usuario/repositorio-biblioteca)
 - 🔗 [Outro Projeto Relevante](https://github.com/seu-usuario/outro-projeto)
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jailton-3a&show_icons=true&theme=github_dark" />
@@ -51,13 +51,10 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 📧 Email: jailtonmirandasim@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/jailton-miranda-779591203/
-- 🌐 Portfólio: [https://seusite.com](https://seusite.com)
+- Email: jailtonmirandasim@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/jailton-miranda-779591203/
+- Portfólio: [https://seusite.com](https://seusite.com)
 
----
 
-⭐ Obrigado por visitar meu perfil!  
-Se gostou de algum projeto, fique à vontade para deixar uma estrela ou contribuir 😄
